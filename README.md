@@ -1,4 +1,4 @@
-# Base Protocol
+# KOMN Base Protocol
 
 This repository contains a reference to the beckn protocol specification version 0.9.3.
 
